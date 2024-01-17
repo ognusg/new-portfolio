@@ -141,6 +141,7 @@
   }
   .formacao .subtitulo {
     color: #ffffff;
+    word-break: normal;
   }
   .formacao-texto {
     font-size: 1.25rem;
